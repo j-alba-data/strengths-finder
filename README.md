@@ -276,7 +276,8 @@ https://my.gallup.com/\_Portal/Component?gssComponentId=12221
 
 ProjectPro. (2024, October 11). *Data science compared with different
 analytics disciplines*.
-https://www.projectpro.io/article/data-science-compared-with-different-analytics-disciplines/175
+
+> <span>https://www.projectpro.io/article/data-science-compared-with-different-analytics-disciplines/175</span>
 
 Western Governors University. (2020). *The data analytics journey*.
 
