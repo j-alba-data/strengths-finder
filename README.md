@@ -269,18 +269,18 @@ helping those in need realize their technical career dreams.
 Cinelli, M., De Francisci Morales, G., Galeazzi, A., Quattrociocchi, W.,
 & Starnini, M. (2021). The echo chamber effect on social media. JSTOR.
 
-<span>https://www.jstor.org/stable/pdf/27027381</span>
+> <span>https://www.jstor.org/stable/pdf/27027381</span>
 
 Gallup. (n.d.). \*CliftonStrengths assessment based on the
 StrengthsFinder assessment\*.
 
-<span>https://my.gallup.com/\_Portal/Component?gssComponentId=12221</span>
+> <span>https://my.gallup.com/\_Portal/Component?gssComponentId=12221</span>
 
 ProjectPro. (2024, October 11). *Data science compared with different
 analytics disciplines*.
 
-<span>https://www.projectpro.io/article/data-science-compared-with-different-analytics-disciplines/175</span>
+> <span>https://www.projectpro.io/article/data-science-compared-with-different-analytics-disciplines/175</span>
 
 Western Governors University. (2020). *The data analytics journey*.
 
-<span class="mark">https://lrps.wgu.edu/provision/431556027</span>
+> <span class="mark">https://lrps.wgu.edu/provision/431556027</span>
